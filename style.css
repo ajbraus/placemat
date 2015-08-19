@@ -1,13 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
 header {
   height:74px;
-  background-color: blue;
+  background-color: grey;
   color: #FEFEFE;
-  position: fixed;
-  top:0;
-  width:100%;
+  margin-bottom:20px;
+  padding:10px;
+}
+
+div, ul, li {
+  margin:10px;
+  padding:10px;
 }
 
 .card {
-
+  
 }
-
