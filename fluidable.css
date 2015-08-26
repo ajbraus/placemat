@@ -118,10 +118,10 @@
  
 */
 @media (min-width: 768px) {
-  .container {
+/*  .container {
     max-width: 696px;
     margin: 0 auto;
-  }
+  }*/
   .col-12 {
     padding-left: 18px;
     padding-right: 18px;
@@ -311,7 +311,7 @@
   .col-push-0 {
     left: 0%;
   }
-  .col-group {
+/*  .col-group {
     margin-right: -18px;
     margin-left: -18px;
     padding: 0;
@@ -320,6 +320,9 @@
     display: table;
     clear: both;
     content: " ";
+  }*/
+  .col-group {
+        margin-left: -18px;
   }
 }
 /*
