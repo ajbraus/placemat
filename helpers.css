@@ -24,3 +24,19 @@
 * html .clearfix { height: 1%; }
 .clearfix { display: block; }
 /* close commented backslash hack */
+
+.neutral {
+  background-color:#eee;
+}
+
+.padding-10 {
+  padding: 10px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
