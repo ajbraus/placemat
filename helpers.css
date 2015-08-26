@@ -1,3 +1,8 @@
+/*
+ * HELPERS.CSS
+ */
+ 
+
 .pull-left {
   float:left;
 }
@@ -6,8 +11,12 @@
   float:right;
 }
 
-.text-muted {
-  color:#EEE;
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
 }
 
 /*CLEARFIX*/
@@ -31,12 +40,4 @@
 
 .padding-10 {
   padding: 10px;
-}
-
-.text-center {
-  text-align: center;
-}
-
-.text-right {
-  text-align: right;
 }

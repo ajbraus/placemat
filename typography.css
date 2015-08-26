@@ -1,0 +1,11 @@
+/*
+ * TYPOGRAPHY.CSS
+ */
+ 
+small {
+  font-size: 50%;
+}
+
+.text-muted {
+  color:darkgrey;
+}
